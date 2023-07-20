@@ -11,4 +11,4 @@ We have been asked to analyze exam results across a school.  We ask every teache
 
 This repository and code are provided under an open license.  Unless written permission has been given to not attribute the data, please use the following attribution when used:
 
-"Messy Data Example" by Pod 8 Ltd, used under MPL-2.0 license  
+"Messy Data Example" by [Pod 8 Ltd[(www.pod8.co.uk), used under [MPL-2.0 license  ](https://www.mozilla.org/en-US/MPL/2.0/)
